@@ -1,0 +1,74 @@
+<html>
+    <head>
+      <title>Android wakelocks</title>
+      <style type="text/css">
+            body {
+                font-family: sans-serif;
+            }
+            table {
+                border-collapse: collapse;
+            }
+            td {
+                border: 1px solid black;
+                margin: 0;
+                background-color: white;
+                padding: 0 0.5em;
+            }
+            thead {
+                font-weight: bold;
+            }
+            .key {
+                font-weight: bold;
+            }
+            .value {
+                font-style: none;
+            }
+            .block {
+                font-style: italic;
+            }
+      </style>
+    </head>
+    <body>
+        <table>
+            <thead>
+                <tr>
+                    <td>Wakelock</td>
+                    <td>Description</td>
+                    <td>Block?</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="key">ipa_ws</td>
+                    <td class="value">Integrated Public Alert &amp; Warning System</td>
+                    <td class="block">Yes</td>
+                </tr>
+                <tr>
+                    <td class="key">wlan</td>
+                    <td class="value">This is a wakelock caused by network traffic.</td>
+                    <td class="block">Yes</td>
+                </tr>
+                <tr>
+                    <td class="key">timerfd</td>
+                    <td class="value">unknown</td>
+                    <td class="block">Yes</td>
+                </tr>
+                <tr>
+                    <td class="key">wlan_extscan_wl</td>
+                    <td class="value">unknown</td>
+                    <td class="block">Yes</td>
+                </tr>
+                <tr>
+                    <td class="key">qcom_rx_wakelock</td>
+                    <td class="value">unknown</td>
+                    <td class="block">Yes</td>
+                </tr>
+                <tr>
+                    <td class="key">NETLINK</td>
+                    <td class="value">unknown</td>
+                    <td class="block">Yes</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
