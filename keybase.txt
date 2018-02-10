@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/scottsome
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://scott.wallace.sh
+  * I am scottsome (https://keybase.io/scottsome) on keybase.
+  * I have a public key ASAeu0OBGISQESXD9_5odMJnDsvUQjIfZrK5Tv-aXdEFWAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202d2b2418e5bbe5d24c434e217b2bf0f8598912be65e3214edecee708381fe09c0a",
+      "host": "keybase.io",
+      "kid": "01201ebb43811884901125c3f7fe6874c2670ecbd442321f66b2b94eff9a5dd105580a",
+      "uid": "190bd792c5102593d4cb7bf2e473ba19",
+      "username": "scottsome"
+    },
+    "merkle_root": {
+      "ctime": 1518288877,
+      "hash": "0c8904a36f53e93895e8369f5088c8515e777ce2202fa7e938d74721853c2c91d421731c06b597a9312d85ff3bf169c8adf326269754db2e7a77860a4a9e8287",
+      "hash_meta": "c4a5411496d644264c103041a1d67d3ca62d5c5bc94acd0afa92f13fe9f82f06",
+      "seqno": 2063325
+    },
+    "service": {
+      "hostname": "scott.wallace.sh",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.40"
+  },
+  "ctime": 1518288904,
+  "expire_in": 504576000,
+  "prev": "decd41857f2ce1839d69723f663283b3ddd7245ca5c3313da6e532c9d59ad35e",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHrtDgRiEkBElw/f+aHTCZw7L1EIyH2ayuU7/ml3RBVgKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmQyYjI0MThlNWJiZTVkMjRjNDM0ZTIxN2IyYmYwZjg1OTg5MTJiZTY1ZTMyMTRlZGVjZWU3MDgzODFmZTA5YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWViYjQzODExODg0OTAxMTI1YzNmN2ZlNjg3NGMyNjcwZWNiZDQ0MjMyMWY2NmIyYjk0ZWZmOWE1ZGQxMDU1ODBhIiwidWlkIjoiMTkwYmQ3OTJjNTEwMjU5M2Q0Y2I3YmYyZTQ3M2JhMTkiLCJ1c2VybmFtZSI6InNjb3R0c29tZSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxODI4ODg3NywiaGFzaCI6IjBjODkwNGEzNmY1M2U5Mzg5NWU4MzY5ZjUwODhjODUxNWU3NzdjZTIyMDJmYTdlOTM4ZDc0NzIxODUzYzJjOTFkNDIxNzMxYzA2YjU5N2E5MzEyZDg1ZmYzYmYxNjljOGFkZjMyNjI2OTc1NGRiMmU3YTc3ODYwYTRhOWU4Mjg3IiwiaGFzaF9tZXRhIjoiYzRhNTQxMTQ5NmQ2NDQyNjRjMTAzMDQxYTFkNjdkM2NhNjJkNWM1YmM5NGFjZDBhZmE5MmYxM2ZlOWY4MmYwNiIsInNlcW5vIjoyMDYzMzI1fSwic2VydmljZSI6eyJob3N0bmFtZSI6InNjb3R0LndhbGxhY2Uuc2giLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQwIn0sImN0aW1lIjoxNTE4Mjg4OTA0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImRlY2Q0MTg1N2YyY2UxODM5ZDY5NzIzZjY2MzI4M2IzZGRkNzI0NWNhNWMzMzEzZGE2ZTUzMmM5ZDU5YWQzNWUiLCJzZXFubyI6MTYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RACjR9815uGT0MTkKJtF8KjOHDvU3gLcXLvX+WF56wPKR/kUYtTIPvNHDkIIoIStiSt5sgq6ZSg+MaMPNrjPz/BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAdzlRtd2ma/QhRXZ24vK3DAdM41xmYrGQrRSWDTU+5Io3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/scottsome
+
+==================================================================
